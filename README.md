@@ -33,10 +33,10 @@ Predicting which telecom customers will leave. I explored 7,043 customer records
 
 ## 🛠️ Tech stack
 
-**Languages:** Python, SQL
-**Data & ML:** NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn
-**AI (learning):** Hugging Face Transformers · spaCy · LLM APIs
-**Tools:** Jupyter · Git & GitHub · VS Code · PyCharm
+- **Languages:** Python, SQL
+- **Data & ML:** NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn
+- **AI (learning):** Hugging Face Transformers · spaCy · LLM APIs
+- **Tools:** Jupyter · Git & GitHub · VS Code · PyCharm
 
 ## 🎓 Learning
 
